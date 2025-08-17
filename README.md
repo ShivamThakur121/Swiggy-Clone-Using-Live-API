@@ -1,4 +1,4 @@
-<p align="center" width="100vw">
+<p align="center">
   <img src="My_logo.png" alt="Swiggy Clone Logo" width="200"/>
 </p>
 

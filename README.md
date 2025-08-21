@@ -3,9 +3,6 @@
 </p>
 
 # 🍔 Swiggy Clone (React + Live API)
-![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(157).png)
-![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(158).png)
-![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(159).png)
 
 A clone of the **Swiggy food delivery app** built using **React.js** and Swiggy’s **Live API**.  
 This project replicates Swiggy’s core features such as browsing restaurants, viewing menus, and adding items to the cart.
@@ -31,7 +28,9 @@ This project replicates Swiggy’s core features such as browsing restaurants, v
 ## 📸 Screenshots
 (Add screenshots here later, e.g. homepage, restaurant page, cart page)
 
----
+![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(157).png)
+![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(158).png)
+![screenshot](https://github.com/ShivamThakur121/Swiggy-Clone-Using-Live-API/blob/b9ab1a6d25b7f48e78c2a6af92998cfcb7277e20/Screenshot%20(159).png)
 
 ## 📦 Installation & Setup
 
